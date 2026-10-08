@@ -1,0 +1,7 @@
+.DS_Store
+
+# Generated PDF documents.
+*.[pP][dD][fF]
+
+# Local official font files are supplied by the user.
+fonts/
